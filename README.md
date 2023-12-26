@@ -23,7 +23,7 @@ Installation:
 
 3) python infer.py ./models/BIAS.pth 
 
-
+d
 
 
 
